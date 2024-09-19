@@ -1,5 +1,3 @@
-如果您只想部署 nginx-deployment，可以简化脚本，去掉与服务和 Ingress 相关的部分。以下是修改后的脚本，仅保留部署 nginx-deployment 的逻辑：
-
 bash
 #!/usr/bin/env bash
 
